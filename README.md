@@ -1,4 +1,4 @@
-# Polymarket-arbitrage-bot-current(v1.8) 2026.2
+# Polymarket-arbitrage-bot-current(v1.8 Private. will not sell) 2026.2
 ##https://t.me/BlackSky_jose
 
 
