@@ -1,4 +1,5 @@
-# Polymarket-arbitrage-bot-current
+# Polymarket-arbitrage-bot-current(v1.8) 2026.2
+-https://t.me/BlackSky_jose
 <img width="525" height="266" alt="9" src="https://github.com/user-attachments/assets/799f4c83-aa7a-46a7-8c37-2d0775b61b0d" />
 <img width="525" height="266" alt="8" src="https://github.com/user-attachments/assets/98ea648f-6194-4b21-944b-427b1da52c1f" />
 <img width="525" height="266" alt="7" src="https://github.com/user-attachments/assets/8905b1cd-5c1b-44a0-98e6-5758e183e7bb" />
@@ -8,3 +9,4 @@
 <img width="525" height="266" alt="3" src="https://github.com/user-attachments/assets/16fc9efd-341b-47eb-8ea6-db1ef5a4c5c0" />
 <img width="525" height="266" alt="2" src="https://github.com/user-attachments/assets/62311155-9085-44b9-9134-45031cbb3e44" />
 <img width="525" height="266" alt="1" src="https://github.com/user-attachments/assets/5254ebf0-077a-4190-80cb-38c9060c9057" />
+
